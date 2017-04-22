@@ -1,0 +1,17 @@
+F:\MyWork\XGhms\XGhms.Helper\bin\Debug\XGhms.Helper.dll
+F:\MyWork\XGhms\XGhms.Helper\bin\Debug\XGhms.Helper.pdb
+F:\MyWork\XGhms\XGhms.Helper\obj\Debug\XGhms.Helper.dll
+F:\MyWork\XGhms\XGhms.Helper\obj\Debug\XGhms.Helper.pdb
+E:\代码\XGhms\XGhms.Helper\bin\Debug\XGhms.Helper.dll
+E:\代码\XGhms\XGhms.Helper\bin\Debug\XGhms.Helper.pdb
+E:\代码\XGhms\XGhms.Helper\obj\Debug\XGhms.Helper.dll
+E:\代码\XGhms\XGhms.Helper\obj\Debug\XGhms.Helper.pdb
+E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Helper\bin\Debug\XGhms.Helper.dll
+E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Helper\bin\Debug\XGhms.Helper.pdb
+E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Helper\obj\Debug\XGhms.Helper.dll
+E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Helper\obj\Debug\XGhms.Helper.pdb
+E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Helper\bin\Debug\XGhms.Helper.dll
+E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Helper\bin\Debug\XGhms.Helper.pdb
+E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Helper\obj\Debug\XGhms.Helper.dll
+E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Helper\obj\Debug\XGhms.Helper.pdb
+E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Helper\obj\Debug\XGhms.Helper.csprojResolveAssemblyReference.cache
