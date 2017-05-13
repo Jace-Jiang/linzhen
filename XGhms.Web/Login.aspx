@@ -57,7 +57,7 @@
                         <div class="pull-left sina-div r-10 b-10" style="_width: 110px;">
                             <img alt="课程作业管理系统" src="Img/guat.png" width="110px" height="110px" />
 						</div>
-                        <div style=" width:380px; font-size:30px; margin-top:20px; text-align:center; line-height:35px;">航天工业大学<br />课程作业管理系统</div>
+                        <div style=" width:400px; font-size:30px; margin-top:20px; text-align:center; line-height:35px;">桂林航天工业学院<br />课程作业管理系统</div>
 					</div>
 					<p class="fc999" style="max-width: 470px;font-size:14px;">欢迎使用课程作业管理系统，请先登录系统然后根据您的角色进入相应的管理界面，如果在使用当中有任何问题，请联系管理员。</p>
 				</div>

@@ -1,7 +1,7 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="StuTopNav.ascx.cs" Inherits="XGhms.Web.Student.MyControls.StuTopNav" %>
 <div class="navbar navbar-fixed-top">
   <div class="navbar-inner">
-    <div class="container-fluid"> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="#">作业管理系统</a>
+    <div class="container-fluid"> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> <a class="brand" href="#">课程作业管理系统</a>
       <div class="btn-group pull-right"> <asp:HyperLink ID="HyperLink_myprofile" runat="server" NavigateUrl="~/Student/User/Default.aspx" CssClass="btn"><i class="icon-user"></i> 
           <asp:Label ID="lab_userName" runat="server" Text="用户"></asp:Label></asp:HyperLink> <a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="caret"></span> </a>
         <ul class="dropdown-menu">

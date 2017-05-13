@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGhms.Web", "XGhms.Web\XGhms.Web.csproj", "{8CEFBDD0-5F4D-4F91-A363-50DB023C2224}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGhms.Helper", "XGhms.Helper\XGhms.Helper.csproj", "{F87F7C30-1C6C-4822-843B-FC2B34A2BDDC}"

@@ -2,9 +2,7 @@ E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Web.Services\bin\
 E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Web.Services\bin\XGhms.Web.Services.pdb
 E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Web.Services\obj\Debug\XGhms.Web.Services.dll
 E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Web.Services\obj\Debug\XGhms.Web.Services.pdb
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Web.Services\bin\XGhms.Web.Services.dll.config
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Web.Services\bin\XGhms.Web.Services.dll
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Web.Services\bin\XGhms.Web.Services.pdb
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Web.Services\obj\Debug\XGhms.Web.Services.dll
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Web.Services\obj\Debug\XGhms.Web.Services.pdb
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Web.Services\obj\Debug\XGhms.Web.Services.csprojResolveAssemblyReference.cache
+E:\procedure\LinZhen\xghms\XGhms.Web.Services\bin\XGhms.Web.Services.dll
+E:\procedure\LinZhen\xghms\XGhms.Web.Services\bin\XGhms.Web.Services.pdb
+E:\procedure\LinZhen\xghms\XGhms.Web.Services\obj\Debug\XGhms.Web.Services.dll
+E:\procedure\LinZhen\xghms\XGhms.Web.Services\obj\Debug\XGhms.Web.Services.pdb

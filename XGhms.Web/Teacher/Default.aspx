@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>作业管理系统 - XGhms</title>
+    <title>课程作业管理系统 - XGhms</title>
     <link href="../../Style/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="../../Style/site.css" rel="stylesheet" type="text/css" />
     <link href="../../Style/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
@@ -21,7 +21,7 @@
         <uctrols:terLeftNav ID="leftNav" runat="server" />
         <div class="span9">
             <div class="well hero-unit">
-                <h1><asp:Label ID="lab_MainTitle" runat="server" Text="欢迎使用学生作业管理系统"></asp:Label></h1>
+                <h1><asp:Label ID="lab_MainTitle" runat="server" Text="欢迎使用课程作业管理系统"></asp:Label></h1>
                 <p><asp:Label ID="lab_MainDescription" runat="server" Text="This is system descript"></asp:Label> </p>
                 <p><a class="btn btn-success btn-large" href="HomeWorkCheck/StudentWorkList.aspx">开始批改作业 &raquo;</a></p>
             </div>

@@ -10,8 +10,7 @@ E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Model\bin\Debug\X
 E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Model\bin\Debug\XGhms.Model.pdb
 E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Model\obj\Debug\XGhms.Model.dll
 E:\11110100-陈旭东-毕业设计\系统源代码\XGhms\XGhms.Model\obj\Debug\XGhms.Model.pdb
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Model\bin\Debug\XGhms.Model.dll
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Model\bin\Debug\XGhms.Model.pdb
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Model\obj\Debug\XGhms.Model.dll
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Model\obj\Debug\XGhms.Model.pdb
-E:\procedure\LinZhen\简单的.NET三层框架的实现（学生作业管理系统）\XGhms.Model\obj\Debug\XGhms.Model.csprojResolveAssemblyReference.cache
+E:\procedure\LinZhen\xghms\XGhms.Model\bin\Debug\XGhms.Model.dll
+E:\procedure\LinZhen\xghms\XGhms.Model\bin\Debug\XGhms.Model.pdb
+E:\procedure\LinZhen\xghms\XGhms.Model\obj\Debug\XGhms.Model.dll
+E:\procedure\LinZhen\xghms\XGhms.Model\obj\Debug\XGhms.Model.pdb
